@@ -1,10 +1,17 @@
 [
   {
     "vendor": "AMD",
+    "type": "APU",
+    "family": "Zen+GCN5",
+    "name": "Raven_Ridge",
+    "url": "https://misdake.github.io/ChipAnnotationData2/Raven_Ridge"
+  },
+  {
+    "vendor": "AMD",
     "type": "CPU",
     "family": "Zen",
     "name": "Zeppelin",
-    "url": "https://misdake.github.io/ChipAnnotationData/Zeppelin"
+    "url": "https://misdake.github.io/ChipAnnotationData2/Zeppelin"
   },
   {
     "vendor": "AMD",
@@ -33,7 +40,5 @@
     "family": "Zen2",
     "name": "Zen2_Core",
     "url": "https://misdake.github.io/ChipAnnotationData2/Zen2_Core"
-  }
-]2 Rome_IOD"
   }
 ]

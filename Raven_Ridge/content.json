@@ -1,25 +1,25 @@
 {
   "vendor": "AMD",
-  "type": "CPU",
-  "family": "Zen",
-  "name": "Zeppelin",
+  "type": "APU",
+  "family": "Zen+GCN5",
+  "name": "Raven_Ridge",
   "githubRepo": "misdake/ChipAnnotationData2",
-  "githubIssueId": 5,
-  "source": "https://www.flickr.com/photos/130561288@N04/35620962953",
-  "createTime": "Oct 24, 2019 2:52:02 PM",
-  "width": 11960,
-  "height": 5235,
+  "githubIssueId": 6,
+  "source": "https://www.flickr.com/photos/130561288@N04/39716562275",
+  "createTime": "Oct 24, 2019 2:59:34 PM",
+  "width": 10461,
+  "height": 5945,
   "tileSize": 512,
   "maxLevel": 5,
   "levels": [
     {
       "level": 0,
-      "xMax": 24,
-      "yMax": 11
+      "xMax": 21,
+      "yMax": 12
     },
     {
       "level": 1,
-      "xMax": 12,
+      "xMax": 11,
       "yMax": 6
     },
     {
@@ -43,6 +43,6 @@
       "yMax": 1
     }
   ],
-  "widthMillimeter": 22.0,
-  "heightMillimeter": 9.63
+  "widthMillimeter": 19.16,
+  "heightMillimeter": 10.9
 }
