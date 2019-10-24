@@ -1,1 +1,34 @@
-[{"vendor":"AMD","type":"CPU","family":"Zen2","name":"Rome_IOD","url":"https://misdake.github.io/ChipAnnotationData2/Rome_IOD","id":"CPU AMD Zen2 Rome_IOD"}]
+[
+  {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Zen2",
+    "name": "Zen2_Core",
+    "url": "https://misdake.github.io/ChipAnnotationData2/Zen2_Core",
+    "id": "CPU AMD Zen2 Zen2_Core"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Zen2",
+    "name": "Matisse_CCD",
+    "url": "https://misdake.github.io/ChipAnnotationData2/Matisse_CCD",
+    "id": "CPU AMD Zen2 Matisse_CCD"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Zen2",
+    "name": "Matisse_IOD",
+    "url": "https://misdake.github.io/ChipAnnotationData2/Matisse_IOD",
+    "id": "CPU AMD Zen2 Matisse_IOD"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Zen2",
+    "name": "Rome_IOD",
+    "url": "https://misdake.github.io/ChipAnnotationData2/Rome_IOD",
+    "id": "CPU AMD Zen2 Rome_IOD"
+  }
+]
