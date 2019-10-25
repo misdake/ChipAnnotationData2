@@ -1,17 +1,17 @@
 [
   {
     "vendor": "AMD",
-    "type": "APU",
-    "family": "Zen+GCN5",
-    "name": "Raven_Ridge",
-    "url": "https://misdake.github.io/ChipAnnotationData2/Raven_Ridge"
-  },
-  {
-    "vendor": "AMD",
     "type": "CPU",
     "family": "Zen",
     "name": "Zeppelin",
     "url": "https://misdake.github.io/ChipAnnotationData2/Zeppelin"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Zen+GCN5",
+    "name": "Raven_Ridge",
+    "url": "https://misdake.github.io/ChipAnnotationData2/Raven_Ridge"
   },
   {
     "vendor": "AMD",
@@ -40,5 +40,19 @@
     "family": "Zen2",
     "name": "Zen2_Core",
     "url": "https://misdake.github.io/ChipAnnotationData2/Zen2_Core"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "Skylake",
+    "name": "Kabylake_2+2",
+    "url": "https://misdake.github.io/ChipAnnotationData2/Kabylake_2+2"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "Skylake",
+    "name": "Skylake_LCC",
+    "url": "https://misdake.github.io/ChipAnnotationData2/Skylake_LCC"
   }
 ]

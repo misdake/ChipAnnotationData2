@@ -1,6 +1,6 @@
 {
   "vendor": "AMD",
-  "type": "APU",
+  "type": "CPU",
   "family": "Zen+GCN5",
   "name": "Raven_Ridge",
   "githubRepo": "misdake/ChipAnnotationData2",
