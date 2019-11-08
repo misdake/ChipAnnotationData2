@@ -68,5 +68,12 @@
     "family": "Fermi",
     "name": "GF108",
     "url": "https://misdake.github.io/ChipAnnotationData2/GF108"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Maxwell",
+    "name": "GM107",
+    "url": "https://misdake.github.io/ChipAnnotationData2/GM107"
   }
 ]

@@ -1,0 +1,38 @@
+{
+  "vendor": "nVIDIA",
+  "type": "GPU",
+  "family": "Maxwell",
+  "name": "GM107",
+  "githubRepo": "misdake/ChipAnnotationData2",
+  "githubIssueId": 11,
+  "source": "https://www.flickr.com/photos/98762402@N06/48316282476",
+  "createTime": "Nov 8, 2019 7:43:23 AM",
+  "width": 3272,
+  "height": 3494,
+  "tileSize": 512,
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 7,
+      "yMax": 7
+    },
+    {
+      "level": 1,
+      "xMax": 4,
+      "yMax": 4
+    },
+    {
+      "level": 2,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}
