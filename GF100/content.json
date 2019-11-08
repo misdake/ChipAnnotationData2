@@ -1,0 +1,48 @@
+{
+  "vendor": "nVIDIA",
+  "type": "GPU",
+  "family": "Fermi",
+  "name": "GF100",
+  "githubRepo": "misdake/ChipAnnotationData2",
+  "githubIssueId": 9,
+  "source": "https://www.flickr.com/photos/130561288@N04/32673025327",
+  "createTime": "Nov 8, 2019 7:37:27 AM",
+  "width": 10386,
+  "height": 10355,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 21,
+      "yMax": 21
+    },
+    {
+      "level": 1,
+      "xMax": 11,
+      "yMax": 11
+    },
+    {
+      "level": 2,
+      "xMax": 6,
+      "yMax": 6
+    },
+    {
+      "level": 3,
+      "xMax": 3,
+      "yMax": 3
+    },
+    {
+      "level": 4,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 5,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 23.12,
+  "heightMillimeter": 23.05
+}

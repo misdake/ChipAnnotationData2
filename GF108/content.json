@@ -1,0 +1,38 @@
+{
+  "vendor": "nVIDIA",
+  "type": "GPU",
+  "family": "Fermi",
+  "name": "GF108",
+  "githubRepo": "misdake/ChipAnnotationData2",
+  "githubIssueId": 10,
+  "source": "https://www.flickr.com/photos/98762402@N06/48316399417",
+  "createTime": "Nov 8, 2019 7:40:42 AM",
+  "width": 3332,
+  "height": 3417,
+  "tileSize": 512,
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 7,
+      "yMax": 7
+    },
+    {
+      "level": 1,
+      "xMax": 4,
+      "yMax": 4
+    },
+    {
+      "level": 2,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}
