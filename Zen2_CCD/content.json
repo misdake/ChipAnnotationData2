@@ -1,0 +1,43 @@
+{
+  "vendor": "AMD",
+  "type": "CPU",
+  "family": "Zen2",
+  "name": "Zen2_CCD",
+  "githubRepo": "misdake/ChipAnnotationData2",
+  "githubIssueId": 2,
+  "source": "https://www.flickr.com/photos/130561288@N04/49046159127",
+  "createTime": "Nov 11, 2019 6:08:09 AM",
+  "width": 36183,
+  "height": 25714,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 71,
+      "yMax": 51
+    },
+    {
+      "level": 1,
+      "xMax": 36,
+      "yMax": 26
+    },
+    {
+      "level": 2,
+      "xMax": 18,
+      "yMax": 13
+    },
+    {
+      "level": 3,
+      "xMax": 9,
+      "yMax": 7
+    },
+    {
+      "level": 4,
+      "xMax": 5,
+      "yMax": 4
+    }
+  ],
+  "widthMillimeter": 10.32,
+  "heightMillimeter": 7.34
+}

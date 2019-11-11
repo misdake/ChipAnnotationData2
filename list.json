@@ -17,13 +17,6 @@
     "vendor": "AMD",
     "type": "CPU",
     "family": "Zen2",
-    "name": "Matisse_CCD",
-    "url": "https://misdake.github.io/ChipAnnotationData2/Matisse_CCD"
-  },
-  {
-    "vendor": "AMD",
-    "type": "CPU",
-    "family": "Zen2",
     "name": "Matisse_IOD",
     "url": "https://misdake.github.io/ChipAnnotationData2/Matisse_IOD"
   },
@@ -33,6 +26,13 @@
     "family": "Zen2",
     "name": "Rome_IOD",
     "url": "https://misdake.github.io/ChipAnnotationData2/Rome_IOD"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Zen2",
+    "name": "Zen2_CCD",
+    "url": "https://misdake.github.io/ChipAnnotationData2/Zen2_CCD"
   },
   {
     "vendor": "AMD",
