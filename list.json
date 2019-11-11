@@ -1,5 +1,12 @@
 [
   {
+    "vendor": "Microsoft",
+    "type": "",
+    "family": "",
+    "name": "Xbox_One",
+    "url": "https://misdake.github.io/ChipAnnotationData2/Xbox_One"
+  },
+  {
     "vendor": "AMD",
     "type": "CPU",
     "family": "Zen",

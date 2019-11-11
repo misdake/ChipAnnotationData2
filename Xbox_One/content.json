@@ -1,0 +1,43 @@
+{
+  "vendor": "Microsoft",
+  "type": "",
+  "family": "",
+  "name": "Xbox_One",
+  "githubRepo": "misdake/ChipAnnotationData2",
+  "githubIssueId": 12,
+  "source": "https://www.flickr.com/photos/130561288@N04/31376514813",
+  "createTime": "Nov 11, 2019 7:36:37 AM",
+  "width": 4399,
+  "height": 3418,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 9,
+      "yMax": 7
+    },
+    {
+      "level": 1,
+      "xMax": 5,
+      "yMax": 4
+    },
+    {
+      "level": 2,
+      "xMax": 3,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 1
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 22.2,
+  "heightMillimeter": 17.25
+}
