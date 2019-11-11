@@ -36,6 +36,11 @@
       "level": 4,
       "xMax": 5,
       "yMax": 4
+    },
+    {
+      "level": 5,
+      "xMax": 3,
+      "yMax": 2
     }
   ],
   "widthMillimeter": 10.32,
