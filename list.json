@@ -1,9 +1,10 @@
 [
   {
     "vendor": "Microsoft",
-    "type": "",
-    "family": "",
+    "type": "Console",
+    "family": "XboxOne",
     "name": "Xbox_One",
+    "listname": "Xbox One",
     "url": "https://misdake.github.io/ChipAnnotationData2/Xbox_One"
   },
   {
