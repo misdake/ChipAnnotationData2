@@ -1,13 +1,5 @@
 [
   {
-    "vendor": "Microsoft",
-    "type": "Console",
-    "family": "XboxOne",
-    "name": "Xbox_One",
-    "listname": "Xbox One",
-    "url": "https://misdake.github.io/ChipAnnotationData2/Xbox_One"
-  },
-  {
     "vendor": "AMD",
     "type": "CPU",
     "family": "Zen",
@@ -50,6 +42,14 @@
     "url": "https://misdake.github.io/ChipAnnotationData2/Zen2_Core"
   },
   {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Zen4+RDNA3",
+    "name": "Phoenix",
+    "listname": "Phoenix",
+    "url": "https://misdake.github.io/ChipAnnotationData2/Phoenix"
+  },
+  {
     "vendor": "Intel",
     "type": "CPU",
     "family": "Skylake",
@@ -62,6 +62,22 @@
     "family": "Skylake",
     "name": "Skylake_LCC",
     "url": "https://misdake.github.io/ChipAnnotationData2/Skylake_LCC"
+  },
+  {
+    "vendor": "Microsoft",
+    "type": "Console",
+    "family": "XboxOne",
+    "name": "Xbox_One",
+    "listname": "Xbox One",
+    "url": "https://misdake.github.io/ChipAnnotationData2/Xbox_One"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Ada",
+    "name": "AD102",
+    "listname": "AD102",
+    "url": "https://misdake.github.io/ChipAnnotationData2/AD102"
   },
   {
     "vendor": "nVIDIA",

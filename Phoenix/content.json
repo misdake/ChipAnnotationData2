@@ -1,0 +1,43 @@
+{
+  "vendor": "AMD",
+  "type": "CPU",
+  "family": "Zen4+RDNA3",
+  "name": "Phoenix",
+  "githubRepo": "misdake/ChipAnnotationData2",
+  "githubIssueId": 14,
+  "source": "https://www.bilibili.com/opus/836269345603584016",
+  "createTime": "Sep 3, 2023 1:53:25 PM",
+  "width": 7815,
+  "height": 5530,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 16,
+      "yMax": 11
+    },
+    {
+      "level": 1,
+      "xMax": 8,
+      "yMax": 6
+    },
+    {
+      "level": 2,
+      "xMax": 4,
+      "yMax": 3
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}
