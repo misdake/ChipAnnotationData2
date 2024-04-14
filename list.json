@@ -84,7 +84,7 @@
     "type": "GPU",
     "family": "Ada",
     "name": "AD102",
-    "listname": "AD102",
+    "listname": "AD102(IR)",
     "url": "https://misdake.github.io/ChipAnnotationData2/AD102"
   },
   {
