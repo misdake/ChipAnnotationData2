@@ -11,14 +11,16 @@
     "type": "CPU",
     "family": "Zen+GCN5",
     "name": "Raven_Ridge",
-    "url": "https://misdake.github.io/ChipAnnotationData2/Raven_Ridge"
+    "url": "https://misdake.github.io/ChipAnnotationData2/Raven_Ridge",
+    "listname": "Raven Ridge"
   },
   {
     "vendor": "AMD",
     "type": "CPU",
     "family": "Zen2",
     "name": "Matisse_IOD",
-    "url": "https://misdake.github.io/ChipAnnotationData2/Matisse_IOD"
+    "url": "https://misdake.github.io/ChipAnnotationData2/Matisse_IOD",
+    "listname": "Matisse IOD"
   },
   {
     "vendor": "AMD",
@@ -32,21 +34,22 @@
     "type": "CPU",
     "family": "Zen2",
     "name": "Zen2_CCD",
-    "url": "https://misdake.github.io/ChipAnnotationData2/Zen2_CCD"
+    "url": "https://misdake.github.io/ChipAnnotationData2/Zen2_CCD",
+    "listname": "Zen2 CCD"
   },
   {
     "vendor": "AMD",
     "type": "CPU",
     "family": "Zen2",
     "name": "Zen2_Core",
-    "url": "https://misdake.github.io/ChipAnnotationData2/Zen2_Core"
+    "url": "https://misdake.github.io/ChipAnnotationData2/Zen2_Core",
+    "listname": "Zen2 Core"
   },
   {
     "vendor": "AMD",
     "type": "CPU",
     "family": "Zen4+RDNA3",
     "name": "Phoenix",
-    "listname": "Phoenix",
     "url": "https://misdake.github.io/ChipAnnotationData2/Phoenix"
   },
   {
@@ -54,7 +57,6 @@
     "type": "CPU",
     "family": "Zen4+RDNA3",
     "name": "Phoenix2",
-    "listname": "Phoenix2",
     "url": "https://misdake.github.io/ChipAnnotationData2/Phoenix2"
   },
   {
@@ -84,7 +86,7 @@
     "type": "GPU",
     "family": "Ada",
     "name": "AD102",
-    "listname": "AD102(IR)",
+    "listname": "AD102 (IR)",
     "url": "https://misdake.github.io/ChipAnnotationData2/AD102"
   },
   {
