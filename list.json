@@ -27,7 +27,8 @@
     "type": "CPU",
     "family": "Zen2",
     "name": "Rome_IOD",
-    "url": "https://misdake.github.io/ChipAnnotationData2/Rome_IOD"
+    "url": "https://misdake.github.io/ChipAnnotationData2/Rome_IOD",
+    "listname": "Rome IOD"
   },
   {
     "vendor": "AMD",
@@ -64,14 +65,16 @@
     "type": "CPU",
     "family": "Skylake",
     "name": "Kabylake_2+2",
-    "url": "https://misdake.github.io/ChipAnnotationData2/Kabylake_2+2"
+    "url": "https://misdake.github.io/ChipAnnotationData2/Kabylake_2+2",
+    "listname": "Kabylake 2+2"
   },
   {
     "vendor": "Intel",
     "type": "CPU",
     "family": "Skylake",
     "name": "Skylake_LCC",
-    "url": "https://misdake.github.io/ChipAnnotationData2/Skylake_LCC"
+    "url": "https://misdake.github.io/ChipAnnotationData2/Skylake_LCC",
+    "listname": "Skylake LCC"
   },
   {
     "vendor": "Microsoft",
